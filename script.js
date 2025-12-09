@@ -1,5 +1,5 @@
 //1 Definire il ciclo da 1 a 100
-//2 Selezionare multipli di 3 e 5
+//2 Selezionare multipli di 3 e 5 (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder)
 //3 Selezionare multipli di 3 (% 3)
 //4 Selezionare multipli di 5 (% 5)
 //5 Restituire le altre i nel ciclo 1-100
